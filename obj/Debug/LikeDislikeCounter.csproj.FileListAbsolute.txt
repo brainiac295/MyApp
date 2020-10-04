@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\LikeDislikeCounter\bin\Debug\LikeDislikeCounter.exe.config
+C:\Users\Admin\source\repos\LikeDislikeCounter\bin\Debug\LikeDislikeCounter.exe
+C:\Users\Admin\source\repos\LikeDislikeCounter\bin\Debug\LikeDislikeCounter.pdb
+C:\Users\Admin\source\repos\LikeDislikeCounter\obj\Debug\LikeDislikeCounter.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LikeDislikeCounter\obj\Debug\LikeDislikeCounter.Form1.resources
+C:\Users\Admin\source\repos\LikeDislikeCounter\obj\Debug\LikeDislikeCounter.Properties.Resources.resources
+C:\Users\Admin\source\repos\LikeDislikeCounter\obj\Debug\LikeDislikeCounter.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LikeDislikeCounter\obj\Debug\LikeDislikeCounter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LikeDislikeCounter\obj\Debug\LikeDislikeCounter.exe
+C:\Users\Admin\source\repos\LikeDislikeCounter\obj\Debug\LikeDislikeCounter.pdb
